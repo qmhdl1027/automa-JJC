@@ -1,10 +1,10 @@
-> [!TIP]
-> **JJC 定制版** - 同步自 automa/AutomaApp，qmhdl1027 维护
+> [!提示]
+> **JJC 定制版*** - 同步自 automa/AutomaApp，qmhdl1027 维护
 > 本仓库同时承载 **Automa 官方全量发行版镜像存档**（97 版本 / 142 安装包），详见下方 [📦 镜像存档记录](#-镜像存档记录)
 
 <img src="src/assets/images/icon-128.png" width="64"/>
 
-# Automa
+# 自动
 <p>
   <img alt="Automa 最新版本" src="https://img.shields.io/github/package-json/v/AutomaApp/automa" />
   <a href="https://twitter.com/AutomaApp">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> [!TIP]
+> [!提示]
 > 🚀 **JJC 定制版** — 同步自 automa/AutomaApp，浏览器自动化扩展中文版
 
 一个通过连接模块（Blocks）来自动化浏览器操作的 Chrome 扩展。<br />
@@ -34,7 +34,7 @@
 
 ## 📦 镜像存档记录
 
-> [!NOTE]
+> [!注意]
 > **2026-09-02 · 官方全量备份完成**
 > 已从 `AutomaApp/automa` 完整镜像官方 **全部 97 个 Release（v0.0.1 → v1.29.12）、142 个扩展安装包（zip）** 到本仓库 Releases 页：
 > - 覆盖 Chrome / Firefox 双浏览器产物（早期版本为单包）
